@@ -1,0 +1,14 @@
+{
+  "name": "send-attached-s3-mail-with-ses",
+  "version": "1.0.1",
+  "description": "Enviar e-mail com SES a partir de notificação SNS com anexo do S3 e templates HTML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xmacedo",
+  "license": "MIT License",
+  "dependencies": {
+    "nodemailer": "^4.4.0"
+  }
+}
